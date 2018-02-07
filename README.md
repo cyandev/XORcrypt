@@ -3,7 +3,6 @@ A javascript encryption library using XOR (exclusive or https://en.wikipedia.org
 
 XORcrypt is a WIP and may not be secure. Use With Caution.
 
-Embed in HTML with a ```HTML <script>``` tag
-```HTML
-<script src="https://cdn.rawgit.com/cyandev/XORcrypt/0b3e88c6/XORcrypt.js"></script>
-```
+Embed in HTML with the ```<script>``` tag shown down bel0w.
+> ```HTML
+<script src="https://cdn.rawgit.com/cyandev/XORcrypt/0b3e88c6/XORcrypt.js"></script>```
