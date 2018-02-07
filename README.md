@@ -7,7 +7,8 @@ A javascript encryption library using XOR (exclusive or https://en.wikipedia.org
 ## How to Use XORcrypt
 To use XORcrypt in your project, embed the javascript in HTML with the ```<script>``` tag shown down bel0w.
 ```HTML
-<script src="https://cdn.rawgit.com/cyandev/XORcrypt/0b3e88c6/XORcrypt.js"></script>```
+<script src="https://cdn.rawgit.com/cyandev/XORcrypt/0b3e88c6/XORcrypt.js"></script>
+```
 Then, use the encrypt(plaintext,key) and decrypt(plaintext,key) functions to encrypt and decrypt any ascii text in your project. Here is an example for you to understand how it works.
 ```HTML
 <!DOCTYPE html>
