@@ -21,7 +21,7 @@ Then, use the encrypt(plaintext,key) and decrypt(plaintext,key) functions to enc
   var key = "qwerty1234"
   var ciphertext = encrypt("hi mom",key)
   console.log(ciphertext)
-  console.log(decrypt(ciphertext,key)
+  console.log(decrypt(ciphertext,key))
 </script>
   
 </body>
